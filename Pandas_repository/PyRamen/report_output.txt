@@ -1,0 +1,15 @@
+spicy miso ramen
+tori paitan ramen
+truffle butter ramen
+tonkotsu ramen
+vegetarian spicy miso
+shio ramen
+miso crab ramen
+nagomi shoyu
+soft-shell miso crab ramen
+burnt garlic tonkotsu ramen
+vegetarian curry + king trumpet mushroom ramen
+ 01-count: 0
+ 02-revenue: 0
+ 03-cogs: 0
+ 04-profit: 0
